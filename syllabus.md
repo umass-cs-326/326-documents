@@ -1,11 +1,42 @@
-# COMPSCI 326 Web Programming
-
-## Syllabus / Summer 2022
+# COMPSCI 326 Syllabus Summer 2022
 
 **General Information**
 
-- Dates: 5/19 - 7/1
-- Instructor: Tim Richards
+- **Dates:** 5/19 - 7/1
+- **Instructor:** Tim Richards
+- **Dates:** May 19th - July 1st
+
+---
+
+**Table of Contents**
+
+- [COMPSCI 326 Syllabus Summer 2022](#compsci-326-syllabus-summer-2022)
+  - [Course Overview](#course-overview)
+  - [Prerequisites](#prerequisites)
+  - [Required Text](#required-text)
+  - [Course Development Environment](#course-development-environment)
+  - [Learning Outcomes](#learning-outcomes)
+  - [Integrative Experience](#integrative-experience)
+  - [Course Format](#course-format)
+  - [Rules for Success](#rules-for-success)
+    - [Student Responsibilities](#student-responsibilities)
+  - [Instructor Responsibilities](#instructor-responsibilities)
+  - [Grading Policy](#grading-policy)
+  - [Grading Notes](#grading-notes)
+  - [Assignments](#assignments)
+  - [Assignment Submission](#assignment-submission)
+    - [Late and Early Submissions](#late-and-early-submissions)
+    - [Lateness General Guidelines](#lateness-general-guidelines)
+  - [Final Grades](#final-grades)
+  - [Communication](#communication)
+  - [Equality Statement](#equality-statement)
+  - [Course Support](#course-support)
+  - [Accommodations](#accommodations)
+  - [Title IX](#title-ix)
+  - [Attendance and Participation](#attendance-and-participation)
+  - [Course Incompletes](#course-incompletes)
+  - [Academic Honesty](#academic-honesty)
+    - [Overview](#overview)
 
 ---
 
