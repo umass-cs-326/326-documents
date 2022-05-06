@@ -14,6 +14,7 @@
   - [Course Overview](#course-overview)
   - [Prerequisites](#prerequisites)
   - [Required Text](#required-text)
+  - [Learning Management System](#learning-management-system)
   - [Course Development Environment](#course-development-environment)
   - [Learning Outcomes](#learning-outcomes)
   - [Integrative Experience](#integrative-experience)
@@ -52,9 +53,13 @@ COMPSCI 220 (or 230) with a grade of C or better, or INFO 248 and COMPSCI 186/18
 
 No required text. All material will be provided through lectures notes, slides, examples, code, and any other resources deemed as relevant to the topics covered in this course.
 
+## Learning Management System
+
+The material for this course will be available in the Moodle learning management system. You will be automatically enrolled in Moodle when you register for this course. On Moodle you will find various resources that will direct you towards getting started with the course. Each week will be broken down into Moodle topics giving you access to that week’s material. Certain material will only be available once you complete prerequisite assignments. As you complete various activities, Moodle will display a checkmark. This is called activity completion and is designed to help guide you through the material. Give yourself time to orient yourself around how the course is organized. We work hard to make sure that the material is easy to access and clear. If you have any question or concerns please email the instructor for this course.
+
 ## Course Development Environment
 
-Given that this is a programming intensive course, it is important to highlight the development environment! Generally, most of what we cover in this course is available on all the typical operating systems. However, the team project allows you to explore additional environments that may have specific OS requirements. You are welcome to use those additional libraries/tools; however, you will not receive direct support for what you decide to use. It is your responsibility for the installation, setup, and use of those additional components. You are welcome to use any editor, IDE, or tools to explore this material. We strongly recommend that you use Visual Studio Code.
+Given that this is a programming intensive course, it is important to highlight the development environment! Generally, most of what we cover in this course is available on all the typical operating systems. However, the team project allows you to explore additional environments that may have specific OS requirements. You are welcome to use those additional libraries/tools; however, you will not receive direct support for what you decide to use. It is your responsibility for the installation, setup, and use of those additional components. You are welcome to use any editor, IDE, or tools to explore this material. We strongly recommend that you use [Visual Studio Code](https://code.visualstudio.com/).
 
 ## Learning Outcomes
 
